@@ -1,1 +1,1 @@
-# Intro-to-Graph-Theory
+# Introduction to Graph Theory
